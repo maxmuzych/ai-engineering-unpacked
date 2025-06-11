@@ -1,4 +1,4 @@
-# AI Engineering Unpacked – Project Demos
+# AI Engineering Unpacked
 
 Welcome! 👋 This repo is a companion to the [AI Engineering Unpacked](https://aiengineeringunpacked.substack.com) newsletter.
 

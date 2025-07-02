@@ -1,6 +1,6 @@
 # AI Engineering Unpacked – Project Demos
 
-Welcome! 👋 This repo is a companion to the [AI Engineering Unpacked](https://aiengineeringunpacked.substack.com) newsletter.
+Welcome! 👋 This repo is a companion to the [AI Engineering Unpacked](https://aiunpacked.net) newsletter.
 
 Each folder in this repo includes a small, practical project that helps you apply the ideas from the newsletter, covering everything from prompting and retrieval to building full LLM-powered apps.
 
@@ -15,5 +15,5 @@ Whether you're just starting out or leveling up your AI engineering skills, thes
 ---
 
 📬 **Not subscribed yet?**  
-Join the newsletter here → [Subscribe to AI Engineering Unpacked](https://aiengineeringunpacked.substack.com)
+Join the newsletter here → [Subscribe to AI Engineering Unpacked](https://aiunpacked.net)
 
